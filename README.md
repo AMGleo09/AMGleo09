@@ -9,7 +9,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/aniket gawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket gawade" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aniket-gawade-bb094b27a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket gawade" height="30" width="40" /></a>
 <a href="https://instagram.com/aniket_gawade20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniket_gawade20" height="30" width="40" /></a>
 </p>
 
