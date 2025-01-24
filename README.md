@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amgleo09&label=Profile%20views&color=0e75b6&style=flat" alt="amgleo09" /> </p>
 
-- 🌱 I’m currently learning **Fullstack .NET**
+- 🌱 I’m currently a **Fullstack .NET**
 
 - 📫 How to reach me **aniketgawade2013@gmail.com**
 
