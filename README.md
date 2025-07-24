@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amgleo09&label=Profile%20views&color=0e75b6&style=flat" alt="amgleo09" /> </p>
 
-- 🌱 I’m a **Fullstack .NET**
+- 🌱 I’m a **Fullstack .NET Developer**
 
-- 📫 How to reach me **aniketgawade2013@gmail.com**
+- 📫 How to reach me **aniketmgawade2019@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
