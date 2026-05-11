@@ -1,136 +1,52 @@
-<h1 align="center">Hi 👋, I'm Aniket Gawade</h1>
-
-<h3 align="center">
-A passionate Fullstack Developer from India
-</h3>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=amgleo09&label=Profile%20views&color=0e75b6&style=flat"
-    alt="amgleo09"
-  />
-</p>
+# 💫 About Me:
+🌱 Fullstack .NET Developer  
+🚀 Passionate about Web Development  
+📚 Currently learning advanced backend architecture  
+📫 Reach me at: **aniketmgawade2019@gmail.com**
 
 ---
 
-- 🌱 I’m a **Fullstack .NET Developer**
-- 📫 How to reach me: **aniketmgawade2019@gmail.com**
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aniket_gawade20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-gawade-bb094b27a/)
 
 ---
 
-<h2 align="left">🌐 Connect with me</h2>
+# 💻 Tech Stack:
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/aniket-gawade-bb094b27a/" target="_blank">
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="linkedin"
-    height="30"
-    width="40"
-  />
-</a>
-
-<a href="https://instagram.com/aniket_gawade20" target="_blank">
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-    alt="instagram"
-    height="30"
-    width="40"
-  />
-</a>
-
-</p>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-<h2 align="left">🛠️ Languages and Tools</h2>
+# 📊 GitHub Stats:
 
-<p align="left">
+![](https://github-readme-stats.vercel.app/api?username=amgleo09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
-<a href="https://angular.io" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-</a>&nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=amgleo09&theme=tokyonight&hide_border=false)
 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</a>&nbsp;
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>&nbsp;
-
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-</a>&nbsp;
-
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-</a>&nbsp;
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>&nbsp;
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>&nbsp;
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>&nbsp;
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>&nbsp;
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-</a>&nbsp;
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>&nbsp;
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>&nbsp;
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amgleo09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+## 👀 Profile Views
 
-<table>
-<tr>
+![](https://komarev.com/ghpvc/?username=amgleo09&color=blue)
 
-<td>
-<img
-  src="https://github-readme-stats.vercel.app/api?username=amgleo09&show_icons=true&locale=en&theme=tokyonight"
-  alt="GitHub Stats"
-/>
-</td>
+---
 
-<td>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=amgleo09&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-  alt="Top Languages"
-/>
-</td>
-
-</tr>
-</table>
-
-<p align="center">
-<img
-  src="https://streak-stats.demolab.com/?user=amgleo09&theme=tokyonight"
-  alt="GitHub Streak"
-/>
-</p>
+⭐️ From [Aniket Gawade](https://github.com/amgleo09)
