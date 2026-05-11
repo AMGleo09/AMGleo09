@@ -203,3 +203,79 @@
 </a>
 
 </p>
+
+<h1 align="center">Hi 👋, I'm Aniket Gawade</h1>
+
+<h3 align="center">
+A passionate Fullstack Developer from India
+</h3>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=amgleo09&label=Profile%20views&color=0e75b6&style=flat"
+    alt="amgleo09"
+  />
+</p>
+
+---
+
+- 🌱 I’m a **Fullstack .NET Developer**
+- 📫 How to reach me: **aniketmgawade2019@gmail.com**
+
+---
+
+<h2 align="left">🌐 Connect with me</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aniket-gawade-bb094b27a/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="linkedin"
+      height="30"
+      width="40"
+    />
+  </a>
+
+  <a href="https://instagram.com/aniket_gawade20" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="instagram"
+      height="30"
+      width="40"
+    />
+  </a>
+</p>
+
+---
+
+<h2 align="left">🛠️ Languages and Tools</h2>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=angular,dotnet,cs,html,css,js,java,nodejs,python,django,mongodb,mysql" />
+
+</p>
+
+---
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<p align="center">
+
+<img height="170"
+  src="https://github-readme-stats.vercel.app/api?username=amgleo09&show_icons=true&theme=tokyonight"
+/>
+
+<img height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgleo09&layout=compact&theme=tokyonight"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://streak-stats.demolab.com/?user=amgleo09&theme=tokyonight"
+/>
+
+</p>
